@@ -1,1 +1,12 @@
-<?php include_once("index1.html") ?>
+
+
+
+<?php
+// do php stuff
+
+include('index1.html');
+
+
+?>
+
+
